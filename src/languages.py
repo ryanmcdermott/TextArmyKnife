@@ -1,0 +1,75 @@
+# http://translate.google.com/translate_a/t?client=t&sl=en&tl=es&hl=en&sc=2&ie=utf-8&oe=utf-8&ssel=0&tsel=0&q=translate_query
+#http://translate.google.com/translate_a/t?client=t&sl=en&tl=es&hl=en&sc=1&ie=utf-8&oe=utf-8&ssel=0&tsel=0&q=three%20days%20after%20a%20powerful%20typhoon%20hit%20the%20philippines,%20thousands%20were%20feared%20dead%20and%20the%20scale%20of%20the%20devastation
+languages = { \
+"afrikaans": "af", \
+"albanian": "sq", \
+"arabic": "ar", \
+"armenian": "hy", \
+"azerbaijani": "az", \
+"basque": "eu", \
+"belarusian": "be", \
+"bengali": "bn", \
+"bosnian": "bs", \
+"bulgarian": "bg", \
+"catalan": "ca", \
+"cebuano": "ceb", \
+"chinese": "zh-cn", \
+"croatian": "hr", \
+"czech": "cs", \
+"danish": "da", \
+"dutch": "nl", \
+"english": "en",
+"esperanto": "eo", \
+"estonian": "et", \
+"filipino": "tl", \
+"finnish": "fi", \
+"french": "fr", \
+"galician": "gl", \
+"georgian": "ka", \
+"german": "de", \
+"greek": "el", \
+"gujarati": "gu", \
+"haitian creole": "ht", \
+"hebrew": "iw", \
+"hindi": "hi", \
+"hmong": "hmn", \
+"hungarian": "hu", \
+"icelandic": "is", \
+"indonesian": "id", \
+"irish": "ga", \
+"italian": "it", \
+"japanese": "ja", \
+"javanese": "jw", \
+"kannada": "kn", \
+"khmer": "km", \
+"korean": "ko", \
+"lao": "lo", \
+"latin": "la", \
+"latvian": "lv", \
+"lithuanian": "lt", \
+"macedonian": "mk", \
+"malay": "ms", \
+"maltese": "mt", \
+"marathi": "mr", \
+"norwegian": "no", \
+"persian": "fa", \
+"polish": "pl", \
+"portugese": "pt", \
+"romanian": "ro", \
+"russian": "ru", \
+"serbian": "sr", \
+"slovak": "sk", \
+"slovenian": "sl", \
+"spanish": "es", \
+"swahili": "sw", \
+"swedish": "sv", \
+"tamil": "ta", \
+"telugu": "te", \
+"thai": "th", \
+"turkish": "tr", \
+"ukranian": "uk", \
+"urdu": "ur", \
+"vietnamese": "vi", \
+"welsh": "cy", \
+"yiddish": "yi", \
+}
